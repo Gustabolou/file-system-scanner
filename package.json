@@ -1,0 +1,21 @@
+{
+    "name": "file-system-scanner",
+    "version": "1.0.0",
+    "description": "Recursive file scanner with extension filtering",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "filesystem",
+      "scanner",
+      "recursive",
+      "nodejs"
+    ],
+    "author": "Luís Gustavo",
+    "license": "MIT",
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
