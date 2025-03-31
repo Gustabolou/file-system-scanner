@@ -66,26 +66,3 @@ PRs welcome! Open an issue first to discuss changes.
 
 ## 📜 License  
 MIT © Gustavo Sales
-
----
-
-## 🎯 GitHub Publishing Tips  
-### 1️⃣ Initialize your repo (if new):  
-```bash
-git init
-git remote add origin https://github.com/Gustabolou/file-system-scanner.git
-```
-
-### 2️⃣ Add a `.gitignore` file:
-```bash
-echo "node_modules/" > .gitignore
-```
-
-### 3️⃣ Commit & push:
-```bash
-git add .
-git commit -m "feat: initial commit - recursive file scanner"
-git branch -M main
-git push -u origin main
-```
-
